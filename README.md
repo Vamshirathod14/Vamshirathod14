@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Ramavath Vamshi 👋
 
-<!--
-**Vamshirathod14/Vamshirathod14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of V Soft  
+💻 Full Stack Developer  
+🤖 AI & Automation Enthusiast  
+🏛️ IIT Ropar Summer Intern 2026  
+🔬 Ex-DRDL Intern  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I build affordable digital solutions for education and rural governance using AI, MERN Stack, and Flutter.
+
+---
+
+## 🛠️ Tech Stack
+- React.js
+- Node.js
+- Flutter
+- MongoDB
+- Firebase
+- Python
+- OpenAI APIs
+
+---
+
+## 🌟 Featured Projects
+- Grievance Management App
+- Faculty Feedback System
+- School Management App
+- AI Chatbot System
+- Gatepass Management System
+
+---
+
+## 🌐 Connect With Me
+- Portfolio: https://vsoftindia.onrender.com/
+- LinkedIn: https://linkedin.com/in/vamshi14
